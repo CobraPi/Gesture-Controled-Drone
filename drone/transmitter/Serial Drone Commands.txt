@@ -1,0 +1,14 @@
+Drone Serial Commands
+
+1 - Bind to drone
+2 - Unbind from drone
+3 - Reconnect to drone
+5 - Switch from joystick to accelerometer control (default = joystick)
+8 - Display joystick values
+9 - Display accelerometer data (pitch, roll)
+0 - Display PWM payload 
+
+c - calibrate accelerometer 
+
+
+* Make sure to hold joystick throttle down when starting (towards headers)0000

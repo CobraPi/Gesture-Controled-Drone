@@ -1,0 +1,10 @@
+/Users/Joey/LocoDev/Gesture Control/aura/firmware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Joey/LocoDev/Gesture Control/aura/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+/Users/Joey/LocoDev/Gesture Control/aura/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+/Users/Joey/LocoDev/Gesture Control/aura/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/Users/Joey/LocoDev/Gesture Control/aura/firmware/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Joey/LocoDev/Gesture Control/aura/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+/Users/Joey/LocoDev/Gesture Control/aura/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+/Users/Joey/LocoDev/Gesture Control/aura/firmware/cmake-build-debug/CMakeFiles/firmware.dir
+/Users/Joey/LocoDev/Gesture Control/aura/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+/Users/Joey/LocoDev/Gesture Control/aura/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir

@@ -1,0 +1,14 @@
+LIST OF SOURCE FILES NEEDED
+
+HCD.zip (arduino library)
+Flybot_ARDUINO.ino
+LocoRobo (python library)
+tkinter (python library)
+LocoDrone_GUI.py
+
+--need .gif files in /pics/ folder for GUI--
+center.gif 
+down.gif
+up.gif
+left.gif
+right.gif

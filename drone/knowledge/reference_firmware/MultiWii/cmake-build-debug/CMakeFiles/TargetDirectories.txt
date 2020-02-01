@@ -1,0 +1,8 @@
+/Users/Joey/LocoDev/drone/knowledge/reference_firmware/MultiWii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Joey/LocoDev/drone/knowledge/reference_firmware/MultiWii/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+/Users/Joey/LocoDev/drone/knowledge/reference_firmware/MultiWii/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/Users/Joey/LocoDev/drone/knowledge/reference_firmware/MultiWii/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Joey/LocoDev/drone/knowledge/reference_firmware/MultiWii/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+/Users/Joey/LocoDev/drone/knowledge/reference_firmware/MultiWii/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+/Users/Joey/LocoDev/drone/knowledge/reference_firmware/MultiWii/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+/Users/Joey/LocoDev/drone/knowledge/reference_firmware/MultiWii/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir

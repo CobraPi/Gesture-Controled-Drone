@@ -1,0 +1,1 @@
+/Users/Joey/.platformio/packages/toolchain-atmelavr/bin/avr-g++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/firmware.dir/src/aura.cpp.o  -o firmware  

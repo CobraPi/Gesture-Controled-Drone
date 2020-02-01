@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/CDC.cpp">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/CDC.cpp" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/HID.cpp">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/HID.cpp" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/HardwareSerial.cpp">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/HardwareSerial.cpp" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/IPAddress.cpp">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/IPAddress.cpp" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Print.cpp">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Print.cpp" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Stream.cpp">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Stream.cpp" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Tone.cpp">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Tone.cpp" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/USBCore.cpp">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/USBCore.cpp" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WInterrupts.c">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WInterrupts.c" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WMath.cpp">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WMath.cpp" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WString.cpp">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WString.cpp" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/avr-libc/malloc.c">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/avr-libc/malloc.c" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/avr-libc/realloc.c">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/avr-libc/realloc.c" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/main.cpp">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/main.cpp" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/new.cpp">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/new.cpp" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring.c">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring.c" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_analog.c">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_analog.c" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_digital.c">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_digital.c" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_pulse.c">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_pulse.c" isTestSource="false" />
+    </content>
+    <content url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_shift.c">
+      <sourceFolder url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_shift.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Library/Caches/CLion12/cmake/generated/3a95c80f/3a95c80f/Debug/firmware_firmware.ino.cpp">
+      <sourceFolder url="file://$USER_HOME$/Library/Caches/CLion12/cmake/generated/3a95c80f/3a95c80f/Debug/firmware_firmware.ino.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Library/Caches/CLion12/cmake/generated/3a95c80f/3a95c80f/MinSizeRel/firmware_firmware.ino.cpp">
+      <sourceFolder url="file://$USER_HOME$/Library/Caches/CLion12/cmake/generated/3a95c80f/3a95c80f/MinSizeRel/firmware_firmware.ino.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Library/Caches/CLion12/cmake/generated/3a95c80f/3a95c80f/RelWithDebInfo/firmware_firmware.ino.cpp">
+      <sourceFolder url="file://$USER_HOME$/Library/Caches/CLion12/cmake/generated/3a95c80f/3a95c80f/RelWithDebInfo/firmware_firmware.ino.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Library/Caches/CLion12/cmake/generated/3a95c80f/3a95c80f/Release/firmware_firmware.ino.cpp">
+      <sourceFolder url="file://$USER_HOME$/Library/Caches/CLion12/cmake/generated/3a95c80f/3a95c80f/Release/firmware_firmware.ino.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/firmware.ino" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake/Platform/Arduino.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake/ArduinoToolchain.cmake" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/libraries" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/tools/avr/lib/gcc/avr/4.3.2/include-fixed" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/tools/avr/lib/gcc/avr/4.3.2/include" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/tools/avr/avr/include" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/variants/standard" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/libraries" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/tools/avr/lib/gcc/avr/4.3.2/include-fixed" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/tools/avr/lib/gcc/avr/4.3.2/include" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/tools/avr/avr/include" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/variants/standard" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino" />
+        </SOURCES>
+        <excluded>
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/avr-libc/malloc.c" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/avr-libc/realloc.c" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_digital.c" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Stream.cpp" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/USBCore.cpp" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WMath.cpp" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_analog.c" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_pulse.c" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/IPAddress.cpp" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/CDC.cpp" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_shift.c" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/HID.cpp" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Tone.cpp" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/new.cpp" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/main.cpp" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring.c" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WString.cpp" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/HardwareSerial.cpp" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WInterrupts.c" />
+          <root url="file:///Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Print.cpp" />
+        </excluded>
+      </library>
+    </orderEntry>
+  </component>
+</module>
