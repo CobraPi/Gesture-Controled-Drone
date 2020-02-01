@@ -13,7 +13,7 @@ gesture-control - the code for the wearable glove transmitter, which was the mai
 		  respectively. It also included a led light ring, which changed according to the position of the glove.
 
 
-imu-3D-initialization - the code for the realtime visualisation of the absolute orientation of the drone, controlled by an 
+imu-3D-visualization - the code for the realtime visualisation of the absolute orientation of the drone, controlled by an 
  			accelerometer. Acclelerometer sends in it's positional data via the serial port of the computer, which
 			is then used by a MATLAB script to homogenously transform an stl CAD file around the x and y axis, mimicking
 			the absolute orientation of the accelerometer. Implemented with the directional cosine matrix in MATLAB in 
