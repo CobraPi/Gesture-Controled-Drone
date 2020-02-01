@@ -1,4 +1,4 @@
-This contains the source code of the LocoDrone project
+This contains the open-source code of the LocoDrone project
 
 
 concepts - includes the power point proposals explaining the features of both the gesture control and a more advanced autonomous
