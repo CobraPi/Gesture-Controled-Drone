@@ -1,5 +1,10 @@
 This contains the source code of the LocoDrone project
 
+
+concepts - includes the power point proposals explaining the features of both the gesture control and a more advanced autonomous
+	   flight system. 
+
+
 drone-control - the code for using a custom designed prototype transmitter that included Joystics and an accelerometer. Meant to
                 be tethered to a the serial port of the computer, and commuincates with a python master control program.Also
                 included in the Python code is a prototype feature, that allows the LocoRobo ground robots to communicate with
