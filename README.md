@@ -13,7 +13,7 @@ drone-control - the code for using a custom designed prototype transmitter that 
                 operation of the drone.
 
 
-gesture-control - the code for the wearable glove transmitter, which was the main prototype for the final product. Glove used a 
+gesture-control - the code for the wearable glove transmitter, which was the main prototype for the final product. The glove used a 
 		  9 - DOF IMU to control the attitude of the drone and flex sensors in the fingers to control throttle and yaw
 		  respectively. It also included a led light ring, which changed according to the position of the glove.
 
